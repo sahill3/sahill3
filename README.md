@@ -1,5 +1,14 @@
 # 💫 About Me:
-Hi there! 👋 I'm Sahil<br>I'm a passionate Machine Learning enthusiast and developer with a strong focus on building intelligent systems and deploying cutting-edge solutions in various domains. Currently, I'm a final-year BTech student with hands-on experience in machine learning, deep learning, and data science.<br><br>🔧 What I'm Working On:<br>E-Commerce Chatbot Development: Developing a chatbot that helps users find electronic devices, using tools like LangChain and Pinecone to optimize performance and reduce software costs.<br>Admin Chatbot for Analytics: Building a chatbot that provides website owners with detailed analytics, leveraging LLMs and function calling for efficient data retrieval.<br>Bridge Damage Detection: Working on detecting damage in steel and cement bridges using YOLOv8 with a focus on steel bridge corrosion and cement bridge cracks.<br><br>💼 Recent Internship:<br>At Egenie, I focused on building a chatbot that helped users find electronic devices. I utilized open-source software to reduce costs and integrated AI models for fast and accurate product retrieval.<br><br>📚 Continuous Learning:<br>Currently expanding my expertise in LLMs, exploring Gemini 1.5 flash, and developing tools for function calling in LLMs.<br><br>🔨 Tools & Technologies:<br>Languages: Python, C++, SQL<br>Machine Learning Frameworks: PyTorch, TensorFlow<br>Databases: PostgreSQL, Firebase Firestore, MySQL<br>Cloud & APIs: Google Cloud Platform (GCP), AWS S3, AWS EC2, GA4 API, OpenAI, Pinecone<br>Libraries: LangChain, PySpark, YOLOv8, NumPy, Pandas, Matplotlib, Scikit-learn<br>Version Control: Git, GitHub<br>
+Hi there! 👋 I'm Sahil<br>I'm a passionate Machine Learning enthusiast and developer with a strong focus on building intelligent systems and deploying cutting-edge solutions in various domains. Currently, I'm a final-year BTech student with hands-on experience in machine learning, deep learning, and data science.<br><be> 
+## 🔧 What I'm Working On:
+- E-Commerce Chatbot Development: Developing a chatbot that helps users find electronic devices, using tools like LangChain and Pinecone to optimize performance and reduce software costs.
+- Admin Chatbot for Analytics: Building a chatbot that provides website owners with detailed analytics, leveraging LLMs and function calling for efficient data retrieval.
+- Bridge Damage Detection: Working on detecting damage in steel and cement bridges using YOLOv8 with a focus on steel bridge corrosion and cement bridge cracks.<be>
+
+## 💼 Recent Internship:
+- At Egenie, I focused on building a chatbot that helped users find electronic devices. I utilized open-source software to reduce costs and integrated AI models for fast and accurate product retrieval.<br>
+## 📚 Continuous Learning:
+Currently expanding my expertise in LLMs, exploring Gemini 1.5 flash, and developing tools for function calling in LLMs.<br>
 
 
 ## 🌐 Socials:
