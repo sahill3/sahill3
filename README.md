@@ -34,8 +34,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,firebase,mongodb,mysql,postgres,fastapi,linux,opencv,tensorflow" /><br>
-    <img src="https://skillicons.dev/icons?i=github,git,aws,bash,gitlab,notion,docker,vscode,terraform,anaconda" />
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,firebase,mongodb,mysql,postgres,fastapi,linux,redis,spring" /><br>
+    <img src="https://skillicons.dev/icons?i=github,git,aws,bash,gitlab,notion,docker,ai,hibernate,maven,selenium" />
 </div>
 
 <br/>
